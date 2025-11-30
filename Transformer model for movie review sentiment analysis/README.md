@@ -36,13 +36,13 @@ This project follows these main steps:
 
 
 ## 🛠️ Technologies Used
-Python
-Jupyter Notebook
-Pandas / NumPy
-scikit-learn
-Transformers (Hugging Face)
-TensorFlow / PyTorch (depending on your setup)
-Matplotlib / Seaborn
+- Python
+- Jupyter Notebook
+- Pandas / NumPy
+- scikit-learn
+- Transformers (Hugging Face)
+- TensorFlow / PyTorch (depending on your setup)
+- Matplotlib / Seaborn
 
 
 ## 📈 Results
