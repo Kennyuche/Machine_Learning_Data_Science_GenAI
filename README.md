@@ -1,2 +1,2 @@
-# Machine_Learning_Data_Science_GenAI
+# Machine-Learning-Data-Science-GenAI
 Technical + Programming Portfolio
