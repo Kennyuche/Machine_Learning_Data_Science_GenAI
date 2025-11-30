@@ -16,6 +16,7 @@ This project is a prototype AI-powered financial chatbot designed to analyze and
 - Company-specific and year-specific responses
 - Simple rule-based chatbot logic
 
+
 ## 📂 Project Structure
 - `data/` – Financial datasets
 - `notebooks/` – Data analysis notebooks
@@ -25,3 +26,4 @@ This project is a prototype AI-powered financial chatbot designed to analyze and
 ## ⚙️ How to Run
 ```bash
 python basic_financial_chatbot.py
+
