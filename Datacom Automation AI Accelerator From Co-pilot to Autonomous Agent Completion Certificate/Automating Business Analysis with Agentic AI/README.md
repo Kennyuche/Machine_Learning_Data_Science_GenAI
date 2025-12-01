@@ -16,8 +16,6 @@ Technical architecture, risk mitigation, and business impact metrics for the pro
 - Proposed AI-driven design
 - Expected impact and next steps 
 
-
-
 ## 🔍 Current Manual Process
 The existing workflow involves multiple human-driven steps, resulting in delays, inconsistencies, and limited scalability.
 
@@ -49,7 +47,6 @@ Key issues include:
 - Secure, scalable deployment infrastructure
 - Fail-safes for accuracy, auditing, and rollback mechanisms
 
-
 ## ⚠️ Risk Mitigation
 - The design includes measures to manage:
 - Data quality issues
@@ -57,7 +54,6 @@ Key issues include:
 - Model drift
 - Process bottlenecks or failover scenarios
 - Change-management adoption challenges
-
 
 ## 📈 Business Impact & Metrics
 - Expected improvements include:
@@ -73,7 +69,6 @@ Key issues include:
 - Design of the Agentic AI Solution
 - Expected Impact & Next Steps
 
-
 ## 🚀 Getting Started
 To begin exploring or extending this project:
 
@@ -82,7 +77,12 @@ To begin exploring or extending this project:
 - Use the 3-slide summary to communicate the vision to stakeholders.
 - Prototype or integrate the agentic AI workflow into real-world systems.
 
+  [Click here to open the Business Process Reports](./Datacom%20Automation%20AI%20Accelerator%20From%20Co-pilot%20to%20Autonomous%20Agent%20Completion%20Certificate/Automating%20Business%20Analysis%20with%20Agentic%20AI/Business_process_reports.md)
+
+
+
 ## 🤝 Contributions
 Contributions are welcome!
 
 You can propose enhancements, automation ideas, or improvements to the AI workflow architecture.
+
