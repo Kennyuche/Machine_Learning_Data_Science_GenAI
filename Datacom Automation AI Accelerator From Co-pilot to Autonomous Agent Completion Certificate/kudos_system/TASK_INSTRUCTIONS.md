@@ -1,4 +1,4 @@
-# Task 2: Building from Scratch with Spec-Driven Development
+# Building from Scratch with Spec-Driven Development
 
 ## Scenario
 
