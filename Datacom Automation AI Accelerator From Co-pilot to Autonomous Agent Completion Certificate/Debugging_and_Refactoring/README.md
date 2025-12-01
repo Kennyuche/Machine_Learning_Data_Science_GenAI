@@ -1,4 +1,4 @@
-# Task 3: Automating Business Analysis with Agentic AI
+# Automating Business Analysis with Agentic AI
 
 ## Scenario
 
