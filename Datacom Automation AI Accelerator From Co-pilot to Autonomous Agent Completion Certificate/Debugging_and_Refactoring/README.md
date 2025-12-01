@@ -146,12 +146,3 @@ After completing the task, consider:
 
 3. **How has this programme's progression—from AI-assisted coding to architecting autonomous systems—changed your view of a software developer's role and responsibilities in a modern, AI-driven business?**
 
-## Tips for Success
-
-- Focus on the business value, not the technical complexity
-- Use concrete examples and metrics when possible
-- Consider the human element - how does this affect the team?
-- Think about scalability and future growth
-- Be realistic about implementation challenges and timeline
-
-This capstone task elevates your thinking from engineering a single software feature to designing an autonomous system that solves a broader business problem. You're no longer just a developer - you're a strategic technology partner.
